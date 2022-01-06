@@ -6,6 +6,8 @@ This trihorn mod has 2 versions, a resin printed and FDM printed version. Its an
 
 If you have any questions, DM knarfie#0001 through the VZBot discord! Enjoy!
 
+Print orientation is advised as duct inlet down (FDM) or 45deg angled for resin printers. 
+
 Showcase:
 ![render trihorn](https://user-images.githubusercontent.com/93599544/148403510-6fdbb9b6-e68e-403a-9619-65e76ac4966f.JPG)
 
