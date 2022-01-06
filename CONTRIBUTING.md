@@ -3,15 +3,14 @@
 How to submit your mod(s):
 1. Login to GitHub or [create an account](https://github.com/join)
 2. Navigate to [VzBot-UserMods](https://github.com/VzBot3D/VzBot-UserMods)
-3. Make a *Fork* of the repository
+3. Make a *Fork* of the repository by clicking the **Create fork** button
 
-![image](./docs/fork.png)
+![image](./docs/create_fork.png)
 ![image](./docs/forking.png)
 
 4. Create a new directory (make sure you are in the right repository working on your own *fork*!), GitHub automatically creates folders as you type slash `/` and setup your mod's README:
 
 ![image](./docs/create_new_file.png)
-
 ![image](./docs/create_readme.png)
 
 5. Upload your STLs, renders, pictures, etc:
@@ -21,7 +20,6 @@ How to submit your mod(s):
 6. Edit the top-level README:
 
 ![image](./docs/edit_readme.png)
-
 ![image](./docs/commit_changes.png)
 
 7. Create a pull request:
