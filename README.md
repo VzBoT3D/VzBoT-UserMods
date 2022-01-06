@@ -43,7 +43,7 @@ like so:
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- |
 | *example* | [Example mod](./creator_here/mod_folder_name) | Example entry for the table | :green_heart::blue_heart::heart:
-| knarfie   | [12mm Linear Rod](./knarfie/12mm_rods) | *Mod for 12mm linear rods* |:green_heart:
+| knarfie   | [12mm Linear Rod](./knarfie/12mm_rods) | Mod for 12mm linear rods |:green_heart:
 |           | [Idler Shoulder](./knarfie/shoulder_idler) | Idler mounts with spots for shoulder bolts. |:green_heart:
 |           | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead |:green_heart:
 
