@@ -39,5 +39,6 @@ like so:
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- |
 | *creator_name* | [*Mod Title*](./creator_here/mod_folder_name) | *Example description (short).* |:green_heart::blue_heart::heart:
+| maze | [*Name of mod*](./maze/name_of_mod) | This is an awesome mod doing blah | :green_heart:
 
 Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)
