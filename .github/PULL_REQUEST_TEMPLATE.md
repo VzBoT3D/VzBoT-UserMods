@@ -6,10 +6,8 @@ highly appreciated!
 to conform to the rules below are likely to be rejected.**
 -->
 
-  * [ ] The mod, firmware or slicer profile is in the correct category
-    folder. Printable mods go to `mods/`, slicer profiles go to `slicer_profiles/`.
-    Create a subfolder with your name, and place the mods in a subfolder with
-    a descriptive name within that folder, e.g.: `/mods/maze/flux_capacitor`
+  * [ ] Create a subfolder with your name, and place the mods in a subfolder with
+    a descriptive name within that folder, e.g.: `/maze/flux_capacitor`
   * [ ] Folders names MUST NOT contain spaces. If possible, make sure file names also 
     do not contain any spaces.
   * [ ] For each mod, add a small `README.md` file to its folder with a short description
@@ -18,7 +16,7 @@ to conform to the rules below are likely to be rejected.**
   * [ ] The PR modifies the top-level `README.md` of the category folder adding the 
     contribution to the table. Read the top part of the file for instructions on how
     to do this. Please preserve the alphabetical ordering while adding new rows.
-  * [ ] The mod/profile has been tested by the person submitting the mod 
+  * [ ] The mod has been tested by the person submitting the mod 
     and/or other VzBot users. Make sure to add information about how the mod was tested below. 
   * [ ] Submitted STLs are printable without support. *(If the mod does not meet this criterion
     join the VzBot discord and ask the other users for advice on how to modify the mod such 
