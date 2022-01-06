@@ -44,6 +44,7 @@ like so:
 | --- | --- | --- | --- |
 | *example* | [Example mod](./creator_here/mod_folder_name) | Example entry for the table | :green_heart::blue_heart::heart:
 | knarfie   | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead |:green_heart:
+| knarfie   | [Idler Shoulder](./knarfie/shoulder idler) | Idler mounts with spots for shoulder bolts. |:green_heart:
 
 ---
 
