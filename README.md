@@ -39,6 +39,7 @@ like so:
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- |
 | *knarfie* | [*Trihorn*](./knarfie/trihorn_duct) | *Trihorn duct for the VZ Printhead* |:green_heart:
+| *knarfie* | [*12mm Linear Rod Mod*](./knarfie/12mm rod mod) | *Mod for 12mm linear rods* |:green_heart:
 
 
 Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)
