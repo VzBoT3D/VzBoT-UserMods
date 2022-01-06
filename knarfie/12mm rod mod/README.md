@@ -7,6 +7,7 @@ The LM12LUU Mount is a friction fit.
 All parts have been tested with LM12LUU bearings and 12mm hardened steel rods.
 
 Showcase:
+
 Bottom rod mount:
 
 ![image](https://user-images.githubusercontent.com/93599544/148412308-9d0cb664-0a5d-4163-946b-890bf03742de.png)
