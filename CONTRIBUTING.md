@@ -24,7 +24,7 @@ How to submit your mod(s):
 
 7. Create a pull request:
 
-![image](./docs/go_to_open_pull_request.png)
+![image](./docs/go_to_pull_requests.png)
 ![image](./docs/new_pull_request.png)
 ![image](./docs/create_pull_request.png)
 ![image](./docs/open_pull_request.png)
