@@ -1,7 +1,7 @@
 This idler mod was developed to use shoulder bolts. Small modifications were made to fit 4xM4x25 shoulder bolts.
 
 Bolts used:
-https://nl.aliexpress.com/item/1005001698010943.html?spm=a2g0o.9042311.0.0.27424c4dDKq2rC 5xM4x25 bolts
+[5xM4x25 bolts](https://nl.aliexpress.com/item/1005001698010943.html?spm=a2g0o.9042311.0.0.27424c4dDKq2rC)
 
 
 Showcase:
