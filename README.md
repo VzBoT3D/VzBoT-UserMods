@@ -40,7 +40,8 @@ like so:
 
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- |
-| *knarfie* | [*Trihorn*](./knarfie/trihorn_duct) | *Trihorn duct for the VZ Printhead* |:green_heart:
+| *example* | [Example mod](./creator_here/mod_folder_name) | Example entry for the table | :green_heart::blue_heart::heart:
+| knarfie   | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead |:green_heart:
 
 
 Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)
