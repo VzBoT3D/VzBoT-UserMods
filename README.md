@@ -6,6 +6,8 @@ Welcome to the VzBot UserMods repository, here you may find community mods for t
 
 **Remember to update this README when uploading new mod!**
 
+There is a [contributing guide available here](./CONTRIBUTING.md).
+
 ## Directory structure
 
 Create a folder containing your name (without spaces) and create a folder for your mod(s).
