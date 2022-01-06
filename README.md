@@ -1,6 +1,6 @@
-# VzBot UserMods repository
+# VzBoT UserMods repository
 
-Welcome to the VzBot UserMods repository, here you may find community mods for the VzBot 3D-printer.
+Welcome to the VzBoT UserMods repository, here you may find community mods for the VzBoT 3D-printer.
 
 <a href="https://discord.gg/Jj5C7q4j" target="_blank">![Discord Shield](https://discord.com/api/guilds/829828765512106054/widget.png?style=banner2)</a>
 
@@ -38,10 +38,13 @@ like so:
 
 ---
 
+## Mods
+
 | Creator | Mod title | Description | Difficulty
 | --- | --- | --- | --- |
 | *example* | [Example mod](./creator_here/mod_folder_name) | Example entry for the table | :green_heart::blue_heart::heart:
 | knarfie   | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead |:green_heart:
 
+---
 
-Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)
+<sub>Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)</sub>
