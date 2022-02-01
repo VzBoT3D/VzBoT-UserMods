@@ -5,4 +5,6 @@ Overall Height from bottom extrusion is 50mm and will support under belly electr
 + The ethernet/internet plug is cat 6 D panel plug the cool thing with d panel ports is this can be used for - Cat6, hdmi, usb and a few others.
 * Fans are 40mm and you can use any thicknes of fan ud like I'm using 40x10mm fans
 
+* Printing I used 2 small supports on the connections between each set and lay all components flat on backs for printing!
+
 (If using skirt just for looks and dont want electronics underneath you can print 2 sets of front skirts!)
