@@ -40,7 +40,7 @@ like so:
 
 ## Mods
 
-| Creator | Mod title | Description | [https://github.com/VzBoT3D/VzBoT-Vz330](Vz330) | Vz235 | Difficulty
+| Creator | Mod title | Description | [Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) | Vz235 | Difficulty
 | --- | --- | --- | --- | --- | --- |
 | example  | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️  | :green_heart::blue_heart::heart:
 | knarfie    | [12mm Linear Rod](./knarfie/12mm_rods)| Mod for 12mm linear rods | ✔️ | ✖️ | :green_heart:
