@@ -47,7 +47,7 @@ like so:
 |            | [Idler Shoulder](./knarfie/shoulder_idler) | Idler mounts with spots for shoulder bolts. |:green_heart:
 |            | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead |:green_heart:
 | catalinutzz| [Hemera mount](./catalinutzz/hemera-mount) | Hemera mount for the VZ Printhead |:green_heart:
-| treintjes  | [Skirt](./TRE_Built_Mods) | Skirt for the VZ-Bot to house electronics under the frame |:green_heart:
+| treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame |:green_heart:
 
 ---
 
