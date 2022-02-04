@@ -34,20 +34,20 @@ Update the following table with the information about your mod:
 
 like so:
 `
-| Creator | [Mod title](link) | Description | Difficulty `
+| Creator | [Mod title](link) | ✔️/✖️ | ✔️/✖️ | Description | Difficulty `
 
 ---
 
 ## Mods
 
-| Creator | Mod title | Description | Difficulty
-| --- | ---- | --- | --- |
-| example  | [Example mod](./creator_here/mod_folder_name) | Example entry for the table | :green_heart::blue_heart::heart:
-| knarfie    | [12mm Linear Rod](./knarfie/12mm_rods) | Mod for 12mm linear rods |:green_heart:
-|            | [Idler Shoulder](./knarfie/shoulder_idler) | Idler mounts with spots for shoulder bolts. |:green_heart:
-|            | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead |:green_heart:
-| catalinutzz| [Hemera mount](./catalinutzz/hemera-mount) | Hemera mount for the VZ Printhead |:green_heart:
-| treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame |:green_heart:
+| Creator | Mod title | Description | [https://github.com/VzBoT3D/VzBoT-Vz330](Vz330) | Vz235 | Difficulty
+| --- | --- | --- | --- | --- | --- |
+| example  | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️  | :green_heart::blue_heart::heart:
+| knarfie    | [12mm Linear Rod](./knarfie/12mm_rods)| Mod for 12mm linear rods | ✔️ | ✖️ | :green_heart:
+|            | [Idler Shoulder](./knarfie/shoulder_idler) | Idler mounts with spots for shoulder bolts  | ✔️ | ✖️ | :green_heart:
+|            | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead  | ✔️ | ✔️ | :green_heart:
+| catalinutzz| [Hemera mount](./catalinutzz/hemera-mount) | Hemera mount for the VZ Printhead | ✔️ | ✔️ | :green_heart:
+| treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ | ✖️ | :green_heart:
 
 ---
 
