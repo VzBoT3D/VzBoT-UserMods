@@ -43,6 +43,7 @@ like so:
 | Creator | Mod title | Description | [Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) | Vz235 | Difficulty
 | --- | --- | --- | --- | --- | --- |
 | example  | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️  | :green_heart::blue_heart::heart:
+| AdderMk2   | [Patch_Cura](./AdderMk2/Patch_Cura) | Updates 2020 Tronxy profiles in Cura | ✔️ | ✔️  |:blue_heart:
 | knarfie    | [12mm Linear Rod](./knarfie/12mm_rods)| Mod for 12mm linear rods | ✔️ | ✖️ | :green_heart:
 |            | [Idler Shoulder](./knarfie/shoulder_idler) | Idler mounts with spots for shoulder bolts  | ✔️ | ✖️ | :green_heart:
 |            | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead  | ✔️ | ✔️ | :green_heart:
