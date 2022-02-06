@@ -9,6 +9,9 @@ The overall height from bottom extrusion is 50mm and will support electronics un
 
 * The ethernet/internet plug is a cat 6 D-Panel plug [LINK]( https://www.amazon.com/gp/product/B081P826R6/ref=ox_sc_saved_image_1?smid=A3JISXJ5AQCA73&psc=1)
   * the cool thing with D-Panel ports is this that they can be used for Cat6, HDMI, USB and a few others.
+ 
+* The feet retain VzBots design of the original feet but extended hieght as mentioned above as for the rubber feet that can be fitted internally plese view [LINK](https://www.ebay.com/itm/254543677997?var=554291871564)
+  * The VzBot foot spacer has been added to the stl folder this spacer is ment to be scaled to hieght you may need for different feet
   
 * Fans are 40mm and you can use any thicknes of fan you like. I'm using 40x10mm fans.
 
