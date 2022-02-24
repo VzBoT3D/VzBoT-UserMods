@@ -48,7 +48,7 @@ like so:
 | knarfie    | [12mm Linear Rod](./knarfie/12mm_rods)| Mod for 12mm linear rods | ✔️ | ✖️ | :green_heart:
 |            | [Idler Shoulder](./knarfie/shoulder_idler) | Idler mounts with spots for shoulder bolts  | ✔️ | ✖️ | :green_heart:
 |            | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead  | ✔️ | ✔️ | :green_heart:
-| SSerpente  | [Klicky probe](SSerpente/Klicky probe Vzbot) | Klicky probe mount | ✔️ | ✔️ | :green_heart:
+| SSerpente  | [Klicky probe](./SSerpente/Klicky%20probe%20Vzbot) | Klicky probe mount | ✔️ | ✔️ | :green_heart:
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ | ✖️ | :green_heart:
 
 ---
