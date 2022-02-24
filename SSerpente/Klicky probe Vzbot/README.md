@@ -1,6 +1,6 @@
 This a collection with  all the necessary printed parts to put Klicky probe on VzBot . 
 My only personal contribution is the probe dock mount that i made to fit VzBot , all the other parts are not my creation . 
-I made the probe dock mount with with press fit m3 nuts instead of heat inserts used in  the original klicky design. 
+I made the probe dock mount  with press fit m3 nuts instead of heat inserts used in  the original klicky design. 
 In case of collision i added 2 more versions : one 1 mm lower and one 1 mm higher . 
 
 Klicky probe is a cheap and more precise alternative to various probe sensors (BlTouch, 3dTouch, inductive/capacitive sensors ) ,
