@@ -54,7 +54,7 @@ like so:
 | SFINAE     | [Rapido HF mount](./SFINAE/Rapido_HF_30mm_fan) | Rapido HF mount for 30mm fan | ✔️ | ✔️ | :green_heart: |
 | SSerpente  | [Klicky probe](./SSerpente/Klicky%20probe%20Vzbot) | Klicky probe mount | ✔️ | ✔️ | :green_heart: |
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ |  ✖️ | :green_heart: |
-
+| pbsuper    | [VZTrident] (./pbsuper/vztrident)| Tripple Z for VZbot complete printer. | ✔️ | ✔️ | :green_heart: |
 ---
 
 <sub>Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)</sub>
