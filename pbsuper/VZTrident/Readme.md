@@ -1,7 +1,3 @@
-3x MGN12C or H 500mm
+Everything is nicely laid out in sections.
 
-3x 8x8 500mm leadscrews
-
-3x 8x8 POM leadscrew nuts
-
-3x Couplers
+All STL's should be printable without support.
