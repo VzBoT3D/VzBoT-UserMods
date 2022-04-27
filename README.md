@@ -56,6 +56,7 @@ like so:
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ |  ✖️ | :green_heart: |
 | pbsuper    | [VZTrident](./pbsuper/VZTrident)| Tripple Z for VZbot complete printer. | ✔️ | ✔️ | :blue_heart: |
 | pbsuper    | [Quickdraw](./pbsuper/Quickdraw)| Quickdraw for Alu Printhead. | ✔️ | ✔️ | :green_heart: |
+| ckvsoft    | [WaveShare](./ckvsoft/waveshare_5inch_DSI_LCD)| WaveShare 5inch DSI LCD. | ✔️ | ✔️ | :green_heart: |
 ---
 
 <sub>Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)</sub>
