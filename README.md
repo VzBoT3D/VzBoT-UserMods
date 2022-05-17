@@ -42,9 +42,10 @@ like so:
 
 | Creator | Mod title | Description | [Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) | Vz235 | Difficulty
 | --- | --- | --- | --- | --- | --- |
-| example  | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
+| example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
 | AdderMk2   | [Patch_Cura](./AdderMk2/Patch_Cura) | Updates 2020 Tronxy profiles in Cura | ✔️ | ✔️ | :blue_heart: |
 | catalinutzz| [Hemera mount](./catalinutzz/hemera-mount) | Hemera mount for the VZ Printhead | ✔️ | ✔️ | :green_heart: |
+| ckvsoft    | [WaveShare](./ckvsoft/waveshare_5inch_DSI_LCD)| WaveShare 5inch DSI LCD. | ✔️ | ✔️ | :green_heart: |
 | karnadi    | [NF Crazy front face](./karnadi/NF_Crazy_2510_BLTouch) | NF Crazy front face 2510 fan with BLTouch mount | ✔️ | ✔️ | :green_heart: |
 |            | [VzHextrudort pneumatic coupler](./karnadi/VzHextrudort_pneumatic_coupler) | VzHextrudort pneumatic PTFE coupler | ✔️ | ✔️ | :green_heart: |
 | knarfie    | [12mm Linear Rod](./knarfie/12mm_rods) | Mod for 12mm linear rods | ✔️ | ✖️ | :green_heart: |
@@ -55,7 +56,8 @@ like so:
 | SSerpente  | [Klicky probe](./SSerpente/Klicky%20probe%20Vzbot) | Klicky probe mount | ✔️ | ✔️ | :green_heart: |
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ |  ✖️ | :green_heart: |
 | pbsuper    | [VZTrident](./pbsuper/VZTrident)| Tripple Z for VZbot complete printer. | ✔️ | ✔️ | :blue_heart: |
-| pbsuper    | [Quickdraw](./pbsuper/Quickdraw)| Quickdraw for Alu Printhead. | ✔️ | ✔️ | :green_heart: |
+|            | [Quickdraw](./pbsuper/Quickdraw)| Quickdraw for Alu Printhead. | ✔️ | ✔️ | :green_heart: |
+| Polar_Ted  | [VZ HextrudORT mount](./Polar_Ted/VZ_HextrudORT_High_Motor_Mount_for_EVA/) | VZ HextrudORT high motor mount for EVA print head and V6 hot end | ✔️ |  ✔️ | :green_heart: |
 ---
 
 <sub>Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)</sub>
