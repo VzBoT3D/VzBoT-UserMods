@@ -40,7 +40,7 @@ like so:
 
 ## Mods
 
-| Creator | Mod title | Description | [Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) | Vz235 | Difficulty
+| Creator | Mod title | Description | [Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) | [Vz235](https://github.com/VzBoT3D/VzBoT-Vz235) | Difficulty
 | --- | --- | --- | --- | --- | --- |
 | example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
 | AdderMk2   | [Patch_Cura](./AdderMk2/Patch_Cura) | Updates 2020 Tronxy profiles in Cura | ✔️ | ✔️ | :blue_heart: |
