@@ -60,6 +60,8 @@ like so:
 |            | [Quickdraw](./pbsuper/Quickdraw)| Quickdraw for Alu Printhead. | ✔️ | ✔️ | :green_heart: |
 | Polar_Ted  | [VZ HextrudORT mount](./Polar_Ted/VZ_HextrudORT_High_Motor_Mount_for_EVA/) | VZ HextrudORT high motor mount for EVA print head and V6 hot end | ✔️ |  ✔️ | :green_heart: |
 |            | [VZ Sexbolt Z Endstop](./Polar_Ted/Sexbolt_Sidepiece_Z_Switch/) | Sexbolt side mounted Z endstop for VZ bed frame  | ✔️ |  ✔️ | :green_heart: |
+|            | [X_Y_Pully_Height_Gauge](./Polar_Ted/X_Y_Pully_Height_Gauge/) | X Y pully height gauge  | ✔️ |  ✔️ | :green_heart: |
+|            | [X_Y Motor Support](./Polar_Ted/Sexbolt_Sidepiece_Z_Switch/) | Support shelf for X and Y motors  | ✔️ |  ✔️ | :green_heart: |
 
 ---
 
