@@ -62,7 +62,7 @@ like so:
 |            | [VZ Sexbolt Z Endstop](./Polar_Ted/Sexbolt_Sidepiece_Z_Switch/) | Sexbolt side mounted Z endstop for VZ bed frame  | ✔️ |  ✔️ | :green_heart: |
 |            | [X_Y_Pully_Height_Gauge](./Polar_Ted/X_Y_Pully_Height_Gauge/) | X Y pully height gauge  | ✔️ |  ✔️ | :green_heart: |
 |            | [X_Y Motor Support](./Polar_Ted/X_Y_Motor_support/) | Support shelf for X and Y motors  | ✔️ |  ✔️ | :green_heart: |
-| Skysi      | [Beefy X-Endstop](./Runningtarrens/Beefy%20X-Endstop) | Beefed up Enstop for X | ✔️ | ✔️ | :green_heart: |
+| Skysi      | [Beefy X-Endstop](./Skysi/Beefy%20X-Endstop) | Beefed up Enstop for X | ✔️ | ✔️ | :green_heart: |
 
 ---
 
