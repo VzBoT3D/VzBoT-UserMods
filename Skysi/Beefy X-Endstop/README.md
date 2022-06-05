@@ -11,7 +11,7 @@ I like it a bit more beefed up for Sensorless Homing.
 i made two versions, an extended version, thats 3mm longer than the original one and the beefy version.
 
 ![Pic 2](https://github.com/Runningtarrens/VzBoT-UserMods/blob/master/Skysi/Beefy%20X-Endstop/slicer%20pic.JPG)
-
+![Pic 3](https://github.com/Runningtarrens/VzBoT-UserMods/blob/master/Skysi/Beefy%20X-Endstop/slicer%20pic2.JPG)
 
 
 
