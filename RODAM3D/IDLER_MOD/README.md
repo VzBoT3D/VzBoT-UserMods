@@ -1,3 +1,5 @@
+## RODAM 3D IDLER MOD
+![Logo](https://github.com/Rodamyot/VzBoT-UserMods/blob/master/RODAM3D/IDLER_MOD/2022-06-16_17h38_54.png)
 Cette modification comprend 2 choses. Premièrement le logo de VzBot a été modifié pour être plus profond pour permettre une impression 2 couleurs. Faites le changement de couleur à 1.4mm (layer 7 si vous imprimez à .2mm)
 Aussi, j'ai modifié la partie du bas pour insérer un lock nut (2mm de profondeur). Ce qui permet d'utiliser le kit de vis pour idler de Mellow
 https://www.aliexpress.com/item/1005004013241693.html?spm=a2g0o.order_list.0.0.21ef1802OC6inC
