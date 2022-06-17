@@ -60,6 +60,7 @@ like so:
 |            | [Quickdraw](./pbsuper/Quickdraw)| Quickdraw for Alu Printhead. | ✔️ | ✔️ | :green_heart: |
 | Polar_Ted  | [VZ HextrudORT mount](./Polar_Ted/VZ_HextrudORT_High_Motor_Mount_for_EVA/) | VZ HextrudORT high motor mount for EVA print head and V6 hot end | ✔️ |  ✔️ | :green_heart: |
 |            | [VZ Sexbolt Z Endstop](./Polar_Ted/Sexbolt_Sidepiece_Z_Switch/) | Sexbolt side mounted Z endstop for VZ bed frame  | ✔️ |  ✔️ | :green_heart: |
+| RODAM 3D| [Idler Mod](./RODAM3D/IDLER_MOD/) | Idler Mod for Screw kit from Mellow & 2 color print logo | ✔️ |  X | :green_heart: |
 
 ---
 
