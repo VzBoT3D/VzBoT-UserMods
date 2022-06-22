@@ -63,6 +63,7 @@ like so:
 |            | [X_Y_Pully_Height_Gauge](./Polar_Ted/X_Y_Pully_Height_Gauge/) | X Y pully height gauge  | ✔️ |  ✔️ | :green_heart: |
 |            | [X_Y Motor Support](./Polar_Ted/X_Y_Motor_support/) | Support shelf for X and Y motors  | ✔️ |  ✔️ | :green_heart: |
 | RODAM 3D| [Idler Mod](./RODAM3D/IDLER_MOD/) | Idler Mod for Screw kit from Mellow & 2 color print logo | ✔️ |  X | :green_heart: |
+|           | [2WD_CPAP_Support](./RODAM3D/2WD_CPAP_Support/) | CPAP tube holder for the Vz235 2WD | ✔️ |  X | :green_heart: |
 
 ---
 
