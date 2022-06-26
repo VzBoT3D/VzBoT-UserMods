@@ -64,6 +64,7 @@ like so:
 |            | [X_Y Motor Support](./Polar_Ted/X_Y_Motor_support/) | Support shelf for X and Y motors  | ✔️ |  ✔️ | :green_heart: |
 | RODAM 3D   | [Idler Mod](./RODAM3D/IDLER_MOD/) | Idler Mod for Screw kit from Mellow & 2 color print logo | ✖️ |  ✔️ | :green_heart: |
 |            | [2WD_CPAP_Support](./RODAM3D/2WD_CPAP_Support/) | CPAP tube holder for the Vz235 2WD | ✖️ |  ✔️ | :green_heart: |
+|            | [180 Hinges](./RODAM3D/180_Hinges/) | 180 Hinges for full door open | ✖️ |  ✔️ | :green_heart: |
 
 ---
 
