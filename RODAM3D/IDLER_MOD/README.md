@@ -1,5 +1,5 @@
 ## RODAM 3D IDLER MOD
-![Logo](https://github.com/Rodamyot/VzBoT-UserMods/blob/master/RODAM3D/IDLER_MOD/2022-06-16_17h38_54.png)
+![Logo](https://github.com/Rodamyot/VzBoT-UserMods/blob/master/RODAM3D/IDLER_MOD/PulleyMount_1.png)
 Cette modification comprend 2 choses. Premièrement le logo de VzBot a été modifié pour être plus profond pour permettre une impression 2 couleurs. Faites le changement de couleur à 1.4mm (layer 7 si vous imprimez à .2mm)
 Aussi, j'ai modifié la partie du bas pour insérer un lock nut (2mm de profondeur). Ce qui permet d'utiliser le kit de vis pour idler de Mellow
 https://www.aliexpress.com/item/1005004013241693.html?spm=a2g0o.order_list.0.0.21ef1802OC6inC
@@ -10,6 +10,6 @@ Also, I modified the bottom part to insert a lock nut (2mm deep). This makes it 
 https://www.aliexpress.com/item/1005004013241693.html?spm=a2g0o.order_list.0.0.21ef1802OC6inC
 So the parts do not have an integrated spacer, use the spacers from the kit.
 
-![The spacer](https://github.com/Rodamyot/VzBot-Image/blob/main/Idler%20Spacer.jpg)
+![The spacer](https://github.com/Rodamyot/VzBot-Image/blob/main/master)
 ![ButtomNuts](https://github.com/Rodamyot/VzBot-Image/blob/main/IdlerButtomNuts.jpg)
 ![TopLogo](https://github.com/Rodamyot/VzBot-Image/blob/main/IdlerTop%20Logo.jpg)
