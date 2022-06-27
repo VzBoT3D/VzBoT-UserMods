@@ -10,6 +10,3 @@ Also, I modified the bottom part to insert a lock nut (2mm deep). This makes it 
 https://www.aliexpress.com/item/1005004013241693.html?spm=a2g0o.order_list.0.0.21ef1802OC6inC
 So the parts do not have an integrated spacer, use the spacers from the kit.
 
-![The spacer](https://github.com/Rodamyot/VzBot-Image/blob/main/master)
-![ButtomNuts](https://github.com/Rodamyot/VzBot-Image/blob/main/IdlerButtomNuts.jpg)
-![TopLogo](https://github.com/Rodamyot/VzBot-Image/blob/main/IdlerTop%20Logo.jpg)
