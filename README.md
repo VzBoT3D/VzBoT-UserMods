@@ -43,6 +43,7 @@ like so:
 | Creator | Mod title | Description | [Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) | [Vz235](https://github.com/VzBoT3D/VzBoT-Vz235) | Difficulty
 | --- | --- | --- | --- | --- | --- |
 | example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
+| airox    | [VZ235 Tophat](./airox/vz235_tophat)| A tophat for the vz235 | ✖️ | ✔️ | :green_heart: |
 | AdderMk2   | [Patch_Cura](./AdderMk2/Patch_Cura) | Updates 2020 Tronxy profiles in Cura | ✔️ | ✔️ | :blue_heart: |
 | catalinutzz| [Hemera mount](./catalinutzz/hemera-mount) | Hemera mount for the VZ Printhead | ✔️ | ✔️ | :green_heart: |
 | ckvsoft    | [WaveShare](./ckvsoft/waveshare_5inch_DSI_LCD)| WaveShare 5inch DSI LCD. | ✔️ | ✔️ | :green_heart: |
