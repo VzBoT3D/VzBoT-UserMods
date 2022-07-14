@@ -63,6 +63,7 @@ like so:
 |            | [X_Y_Pully_Height_Gauge](./Polar_Ted/X_Y_Pully_Height_Gauge/) | X Y pully height gauge  | ✔️ |  ✔️ | :green_heart: |
 |            | [X_Y Motor Support](./Polar_Ted/X_Y_Motor_support/) | Support shelf for X and Y motors  | ✔️ |  ✔️ | :green_heart: |
 | RODAM 3D   | [180_Hinges](./RODAM_3D/180_Hinges/) | 180 Hinges for full door open  | ✖️ |  ✔️ | :green_heart: |
+|            | [2WD_2_COLOR_SCREW_PACK](./RODAM_3D/2WD_2_COLOR_SCREW_PACK/) | 2 color Idler with mod for screw kit  | ✖️ |  ✔️ | :green_heart: |
 
 ---
 
