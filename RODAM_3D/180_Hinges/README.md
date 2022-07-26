@@ -1,5 +1,8 @@
 ## 180 HINGES
 
+## !!!! Attention, this will not fit the aluminium version, it's a mod just for the print version of the motor mount !!!
+# Mod the step file to fit the alu version
+
 This is a simple mod that just off set the pin hole of the hinges to anable a full 180 door open !
 No need to modifie anything on the original design, it use the same holes as the original design.
 Just print and install.
