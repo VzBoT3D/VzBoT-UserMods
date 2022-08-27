@@ -53,6 +53,7 @@ like so:
 | knarfie    | [12mm Linear Rod](./knarfie/12mm_rods) | Mod for 12mm linear rods | ✔️ | ✖️ | :green_heart: |
 |            | [Idler Shoulder](./knarfie/shoulder_idler) | Idler mounts with spots for shoulder bolts  | ✔️ | ✖️ | :green_heart: |
 |            | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead | ✔️ | ✔️ | :green_heart: |
+| mdwasp     | [Swappable Exhaust Tube](./mdwasp/swappable_exhaust_tube) | Hot-swappable exhaust tube | ? | ✔️ | :green_heart: |
 | Rac        | [MGN9 Gantry](./Rac/MGN9_gantry) | MGN9 gantry | ✔️ | ✔️ | ✖️ | :blue_heart: |
 | SFINAE     | [Rapido HF mount](./SFINAE/Rapido_HF_30mm_fan) | Rapido HF mount for 30mm fan | ✔️ | ✔️ | :green_heart: |
 | SSerpente  | [Klicky probe](./SSerpente/Klicky%20probe%20Vzbot) | Klicky probe mount | ✔️ | ✔️ | :green_heart: |
