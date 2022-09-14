@@ -1,6 +1,7 @@
 # Skirt set for the VZ330 ##  
 
-image here
+![Front Image](./IMG/VZbot_Skirts_v8_front.png)
+
 ## Features ##
 55mm high skirts allows for under mounting electronics.       
 Option for Integrated Voron V0 display.     
