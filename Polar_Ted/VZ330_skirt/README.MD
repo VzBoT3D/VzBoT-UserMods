@@ -18,4 +18,4 @@ Note: Add extra length to acomodate for bottom pannel thickness.
 14 - M3 x 5mm x 4mm seat set inserts ( for fans mounts, power socket and V0 display insert )       
 4 -  M2 x 8mm self tapping screws ( for mounts V0 display )       
 1 - [IEC320 C14 Inlet Power Socket With Rocker Switch](https://deepfriedhero.in/products/iec320-c14-inlet-power-socket-with-red-rocker-switch)      
-4 - [ Musumi C30-RK EPDM RUbber feet](https://us.misumi-ec.com/vona2/detail/110500157910) ( re-used from X5SA kit )  - will add a link when I find a source
+4 - [ Musumi C30-RK EPDM Rubber feet](https://us.misumi-ec.com/vona2/detail/110500157910) ( re-used from X5SA kit )  - will add a link when I find the correct Misumi part number )
