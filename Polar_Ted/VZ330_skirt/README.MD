@@ -11,7 +11,7 @@ Side skirt center piece has mounts for 40mm fans.
 ### BOM ### 
 Note: Add extra length to acomodate for bottom pannel thickness.          
 28 - M4 x 10 mm button head screws      
-4 - M4x15mm button head screws       
+4 - M4 x 15mm button head screws       
 4 - M3 x 6mm button head screws ( for V0 display insert )       
 2 - M3 x 10mm button head screws ( for power socket)      
 32 - M4 T nuts      
