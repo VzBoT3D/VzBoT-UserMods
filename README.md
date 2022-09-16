@@ -66,6 +66,7 @@ like so:
 | RODAM 3D   | [180_Hinges](./RODAM_3D/180_Hinges/) | 180 Hinges for full door open  | ✖️ |  ✔️ | :green_heart: |
 |            | [2WD_2_COLOR_SCREW_PACK](./RODAM_3D/2WD_2_COLOR_SCREW_PACK/) | 2 color Idler with mod for screw kit  | ✖️ |  ✔️ | :green_heart: |
 | SFINAE     | [Rapido HF mount](./SFINAE/Rapido_HF_30mm_fan) | Rapido HF mount for 30mm fan | ✔️ | ✔️ | :green_heart: |
+| Skysi      | [Beefy X-Endstop](./Skysi/Beefy%20X-Endstop) | Beefed up Enstop for X | ✔️ | ✔️ | :green_heart: |
 | SSerpente  | [Klicky probe](./SSerpente/Klicky%20probe%20Vzbot) | Klicky probe mount | ✔️ | ✔️ | :green_heart: |
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ |  ✖️ | :green_heart: |
 
