@@ -40,12 +40,14 @@ like so:
 
 ## Mods
 
-| Creator | Mod title | Description | [Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) | Vz235 | Difficulty
+| Creator | Mod title | Description | [Vz330](https://github.com/VzBoT3D/VzBoT-Vz330) | [Vz235](https://github.com/VzBoT3D/VzBoT-Vz235) | Difficulty
 | --- | --- | --- | --- | --- | --- |
 | example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
+| airox    | [VZ235 Tophat](./airox/vz235_tophat)| A tophat for the vz235 | ✖️ | ✔️ | :green_heart: |
 | AdderMk2   | [Patch_Cura](./AdderMk2/Patch_Cura) | Updates 2020 Tronxy profiles in Cura | ✔️ | ✔️ | :blue_heart: |
 | catalinutzz| [Hemera mount](./catalinutzz/hemera-mount) | Hemera mount for the VZ Printhead | ✔️ | ✔️ | :green_heart: |
 | ckvsoft    | [WaveShare](./ckvsoft/waveshare_5inch_DSI_LCD)| WaveShare 5inch DSI LCD. | ✔️ | ✔️ | :green_heart: |
+| jpbnto     | [Y endstop](./jpbnto/yendstop) | Y-endstop using the Tronxy XS5A switch | ✔️ | ✖️ | :green_heart: |
 | karnadi    | [NF Crazy front face](./karnadi/NF_Crazy_2510_BLTouch) | NF Crazy front face 2510 fan with BLTouch mount | ✔️ | ✔️ | :green_heart: |
 |            | [VzHextrudort pneumatic coupler](./karnadi/VzHextrudort_pneumatic_coupler) | VzHextrudort pneumatic PTFE coupler | ✔️ | ✔️ | :green_heart: |
 | knarfie    | [12mm Linear Rod](./knarfie/12mm_rods) | Mod for 12mm linear rods | ✔️ | ✖️ | :green_heart: |
@@ -59,6 +61,11 @@ like so:
 |            | [Quickdraw](./pbsuper/Quickdraw)| Quickdraw for Alu Printhead. | ✔️ | ✔️ | :green_heart: |
 |            | [Brace_Dancer](./pbsuper/Brace_Dancer)| Brace for Dancer so Fanduct can't move sideways. | ✔️ | ✔️ | :green_heart: |
 | Polar_Ted  | [VZ HextrudORT mount](./Polar_Ted/VZ_HextrudORT_High_Motor_Mount_for_EVA/) | VZ HextrudORT high motor mount for EVA print head and V6 hot end | ✔️ |  ✔️ | :green_heart: |
+|            | [VZ Sexbolt Z Endstop](./Polar_Ted/Sexbolt_Sidepiece_Z_Switch/) | Sexbolt side mounted Z endstop for VZ bed frame  | ✔️ |  ✔️ | :green_heart: |
+|            | [X_Y_Pully_Height_Gauge](./Polar_Ted/X_Y_Pully_Height_Gauge/) | X Y pully height gauge  | ✔️ |  ✔️ | :green_heart: |
+|            | [X_Y Motor Support](./Polar_Ted/X_Y_Motor_support/) | Support shelf for X and Y motors  | ✔️ |  ✔️ | :green_heart: |
+| RODAM 3D   | [180_Hinges](./RODAM_3D/180_Hinges/) | 180 Hinges for full door open  | ✖️ |  ✔️ | :green_heart: |
+
 ---
 
 <sub>Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)</sub>
