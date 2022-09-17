@@ -1,14 +1,32 @@
 Quickdraw mount for VZbot Alu Printhead.
 
+Quickdraw 1 is the original older version. We have since updated to Quickdraw 2 and i would recommend everyone to use that.
+
+
 Strip 2 24AWG wires for about 2cm twist the wire so no strands are loose and stick it in the back of the Quickdraw mount. Cut wires flush with magnets after they have been added into the mount and put a dot of glue on the wire where it enters the Quickdraw Mount. For added security you can add a tiny dot of solder onto the wire/magnet where they touch. be carefull not to heat the magnet since it will loose it's strength then.
 
+The printed Printhead version is made for the backplate without tensioners. If you still tension your belts at the backplate this won't fit.
+
+QD1 BOM
+```
 6x3mm Magnets 6x
-
 M3 Heat inserts 8x
-
 15cm 24AWG wire 2x
-
+M2x10mm socket head NOT RVS/Stainless. Needs to be attracted to magnets.
 Omron D2F-5 1x
+```
+
+QD2 BOM
+```
+6x6mm Magnets 4x
+M3 heat inserts 5x
+15cm 24AWG wire 2x
+Omron D2F-5 1x
+6x3-3mm ring magnets 2x [ring magnet](https://www.aliexpress.com/item/1005003026319118.html?)
+M3x8mm Ultra Flat Head bolt Black 2x [Ultra Flats](https://a.aliexpress.com/_uH3ne5)
+M3x12mm Button head or Ultra flat head 1x
+M2x10mm socket head NOT RVS/Stainless. Needs to be attracted to magnets.
+```
 
 To use quickdraw a module needs to be added.
 
@@ -19,7 +37,7 @@ wget https://raw.githubusercontent.com/Annex-Engineering/klipper/master/klippy/e
 sudo service klipper restart 
 ```
 For more info go to [Quickdraw](https://github.com/Annex-Engineering/Quickdraw_Probe)
-
+Credits to Annex-Engineering for designing it.
 
 Example Config for VZTrident 400 on BTT Octopus board:
 ```
