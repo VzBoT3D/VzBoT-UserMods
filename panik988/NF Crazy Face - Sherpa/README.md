@@ -1,3 +1,3 @@
-From an idea started by Marco Formenton (panik988) I decided to fix same issues and alignment of this face.
+From an idea started by panik988 I decided to fix same issues and alignment of this face to mount an NF CRAZY VOLCANO by Mellow.
 
 NOTICE: This is still in beta, please open issues or contact me on discord to fix them.
