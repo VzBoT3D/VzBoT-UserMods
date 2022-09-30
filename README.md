@@ -54,7 +54,7 @@ like so:
 |            | [Idler Shoulder](./knarfie/shoulder_idler) | Idler mounts with spots for shoulder bolts  | ✔️ | ✖️ | :green_heart: |
 |            | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead | ✔️ | ✔️ | :green_heart: |
 | mdwasp     | [Swappable Exhaust Tube](./mdwasp/swappable_exhaust_tube) | Hot-swappable exhaust tube | ? | ✔️ | :green_heart: |
-| panik988   | [Sherpa + NF Crazy front face (bracket)](./panik988/sherpa_nf_crazy_bracket) | ✔️ | ✔️ | :green_heart: |
+| panik988   | [Sherpa + NF Crazy front face (bracket)](./panik988/sherpa_nf_crazy_bracket) | NF Crazy Face Mount with bracket for Sherpa | ✔️ | ✔️ | :green_heart: |
 | pbsuper    | [VZTrident](./pbsuper/VZTrident)| Tripple Z for VZbot complete printer. | ✔️ | ✔️ | :blue_heart: |
 |            | [Quickdraw](./pbsuper/Quickdraw)| Quickdraw for Alu Printhead. | ✔️ | ✔️ | :green_heart: |
 |            | [Brace_Dancer](./pbsuper/Brace_Dancer)| Brace for Dancer so Fanduct can't move sideways. | ✔️ | ✔️ | :green_heart: |
