@@ -45,6 +45,7 @@ like so:
 | example    | [Example mod](./creator_here/mod_folder_name)| Example entry for the table | ✔️ | ✔️ | :green_heart::blue_heart::heart: |
 | airox    | [VZ235 Tophat](./airox/vz235_tophat)| A tophat for the vz235 | ✖️ | ✔️ | :green_heart: |
 | AdderMk2   | [Patch_Cura](./AdderMk2/Patch_Cura) | Updates 2020 Tronxy profiles in Cura | ✔️ | ✔️ | :blue_heart: |
+| CapnKrunchy | [Aluminum Z WAGO Mount](./CapnKrunchy/Aluminum%20Z%20WAGO%20Mount) | WAGO mount for Aluminum Z bed assembly | ✔️ | ✖️ | :green_heart: |
 | catalinutzz| [Hemera mount](./catalinutzz/hemera-mount) | Hemera mount for the VZ Printhead | ✔️ | ✔️ | :green_heart: |
 | ckvsoft    | [CPAP_back_panel_tube_mount_VZ330](./ckvsoft/CPAP_back_panel_tube_mount_VZ330)| CPAP back panel tube mount VZ330. | ✔️ | ✖️ | :green_heart: |
 | ckvsoft    | [WaveShare](./ckvsoft/waveshare_5inch_DSI_LCD)| WaveShare 5inch DSI LCD. | ✔️ | ✔️ | :green_heart: |
