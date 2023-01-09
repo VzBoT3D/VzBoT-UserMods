@@ -1,6 +1,6 @@
 # Aluminum Z WAGO Mount
 
-![VZ330-AluZ-BedWago](https://user-images.githubusercontent.com/47148444/211226384-396bce96-50a3-4142-bd98-66ef3fecab19.png)
+![VZ330-AluZ-BedWago](Images/Render.png)
 
 
 ## Description
@@ -13,6 +13,7 @@ The recommended mounting orientation is with the WAGOs facing downwards on the b
 ## BOM
   * 4x M3x16 Socket Head or Button Head cap screws
   * 4x M3x5x4 brass heatset inserts
+  * 6x WAGO 221-412 Levernuts
 
 ## STL Files
 * 1x AluZ-WAGO-Mount
