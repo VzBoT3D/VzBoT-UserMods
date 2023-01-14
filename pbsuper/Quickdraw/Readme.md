@@ -40,7 +40,7 @@ sudo service klipper restart
 For more info go to [Quickdraw](https://github.com/Annex-Engineering/Quickdraw_Probe)
 Credits to Annex-Engineering for designing it.
 
-Example Config for VZTrident 400 on BTT Octopus board:
+Example Config for VZTrident 400 on BTT Octopus board WIth QD1:
 ```
 [dockable_probe]
 pin: PG10 #your probe pin goes here
@@ -67,12 +67,12 @@ dock_fixed_z:              True # k series printers use a dock fixed in the z ax
 dock_retries:			   3
 ```
 
-Example Config for the VZ235 with BTT Octopus Board:
+Example Config for the VZ235 with BTT Octopus Board with QD2:
 ``` 
 [dockable_probe]
 pin: PG12 # Z-MIN
-x_offset: 2 # offset for microswitch x direction off nozzle
-y_offset: 12 # offset for microswitch y direction off nozzle
+x_offset: 1.9 # offset for microswitch x direction off nozzle
+y_offset: 19.2 # offset for microswitch y direction off nozzle
 
 #0.4 Hardend nozzle offset.
 #z_offset = 8.791
