@@ -72,7 +72,7 @@ like so:
 | Skysi      | [Beefy X-Endstop](./Skysi/Beefy%20X-Endstop) | Beefed up Enstop for X | ✔️ | ✔️ | :green_heart: |
 | SSerpente  | [Klicky probe](./SSerpente/Klicky%20probe%20Vzbot) | Klicky probe mount | ✔️ | ✔️ | :green_heart: |
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ |  ✖️ | :green_heart: |
-
+| EduardoMDSousa  | [Vz-Printhead-Printed-MGN12H](./EduardoMDSousa/Vz-Printhead-Printed-MGN12H) | Vz-Printhead-Printed-MGN12H | ✔️ | ✔️ | :green_heart: |
 ---
 
 <sub>Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)</sub>
