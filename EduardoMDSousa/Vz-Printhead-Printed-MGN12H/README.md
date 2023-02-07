@@ -14,6 +14,8 @@ in the extra parts folder, the head doc for Klicky prob and NRG versions will al
 
 you can find me on the Facebook Group as Eduardo Sousa or on discord @EduardoSousa#7556
 
+ps. My thanks to Simon Vez , for his great help with advice and revision.
+
 Credits, from the original version and Readme, go to Simon Vez
 
 <img width="600" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-04-36CustomizedView24815512553.png">
