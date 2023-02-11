@@ -67,7 +67,7 @@ Right now, there are two probe attachment options, each with two probe types.
 
 First klicky probe, based on the [Quickdraw probe](https://github.com/Annex-Engineering/Quickdraw_Probe), with an added third magnet for added stability and fixed dock gantry setups.
 
-<img src="./Probes/KlickyProbe/Photos/KlickyProbe.png" alt="klickyprobe" style="zoom:50%;" />
+<img src="https://github.com/jlas1/Klicky-Probe/blob/main/Probes/KlickyProbe/Photos/KlickyProbe.png" alt="klickyprobe" style="zoom:50%;" />
 
 It uses magnets to secure the probe to the mount and also to make the electrical connection.
 The magnets can be glued to prevent them from coming loose.
@@ -80,7 +80,7 @@ It supports a [microswitch probe](./Probes/KlickyProbe/) and [Unklicky](./Probes
 New enclosed magnets probe, it does not require glue to help prevent the magnets from coming loose, magnets are also self aligning.
 This approach only uses common and easy to source parts.
 
-<img src="./Probes/KlickyNG/Photos/klickyNG.png" alt="klickyprobe" style="zoom:50%;" />
+<img src="https://github.com/jlas1/Klicky-Probe/blob/main/Probes/KlickyNG/Photos/klickyNG.png" alt="klickyprobe" style="zoom:50%;" />
 
 Also supports [microswitch probe](./Probes/KlickyNG/) and [Unklicky](./Probes/UnklickyNG/) ([invented by DustinSpeed](https://github.com/majarspeed/Unklicky)) (self built probe, that so far surpasses the microswitches in common use) based probing.
 
@@ -109,7 +109,7 @@ The specific parts with install, configuration, troubleshoot and recommended set
 
 There are also [docks and mounts submitted by users](./Usermods) to support other printers and toolheads, you should check it out.
 
-![Klicky Probe image](./Photos/Klicky_Probe.png)klicky early version.
+![Klicky Probe image](https://github.com/jlas1/Klicky-Probe/blob/main/Photos/Klicky_Probe.png)klicky early version.
 
 # Klicky components
 
@@ -120,13 +120,13 @@ All the compatible printers require:
 * Probe dock (all the printers use the same)
 * Probe dock mount (what attaches to the printer to dock the probe when not in use)
 
-The CAD with all the files is located [Here](./CAD)
+The CAD with all the files is located [Here](https://github.com/jlas1/Klicky-Probe/tree/main/CAD)
 
 KlickyProbe STL's are now located on each probe type directory.
 
 Printer specific STL are in each printer directory.
 
-The klipper macros are [here](./Klipper_macros), the RRF [here](./RRF_macros).
+The klipper macros are [here](./Klipper_macros](https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros), the RRF [here](./RRF_macros).
 
 
 ## Probe accuracy
@@ -139,7 +139,7 @@ The probe accuracy output is better than a range of 0.025mm (difference between 
 
 There are no need for supports, recommended settings are 4 perimeters/top/bottom, at least 23% infill, the STL's are already oriented, you only need to send them to the slicer.
 
-![](./Photos/Klicky_Probe_recommended_printing_orientation.png)
+![]([https://github.com/jlas1/Klicky-Probe/blob/main/Photos/Klicky_Probe_recommended_printing_orientation.png)
 
 Each printer family/version has it's own mounting options, Bill of Materials, assembly instructions and dock/attach setup.
 
