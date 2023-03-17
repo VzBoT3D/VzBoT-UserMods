@@ -1,6 +1,6 @@
 VZ Sexbolt Sidepiece Z Endstop swich
 Switch is a mod of the Voron 2.4 Sexbolt Z endstop by Hartk and uses it's internal components. 
-https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_SexBolt_ZEndstop
+https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202-Trident/2.4/Voron2.4_SexBolt_ZEndstop
 
 It's designed to mount to the inside edge of the VZ bed frame so the print head can reach the switch to probe the nozzle.
 Replace the normal M4x10MM screw in the Voron Sexbolt kit with a M4x20 cap screw. This compensates for the added length of the switch housing. 
