@@ -73,6 +73,7 @@ like so:
 | SSerpente  | [Klicky probe](./SSerpente/Klicky%20probe%20Vzbot) | Klicky probe mount | ✔️ | ✔️ | :green_heart: |
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ |  ✖️ | :green_heart: |
 | EduardoMDSousa  | [Vz-Printhead-Printed-MGN12H](./EduardoMDSousa/Vz-Printhead-Printed-MGN12H) | Vz-Printhead-Printed-MGN12H | ✔️ | ✔️ | :green_heart: |
+| EduardoMDSousa  | [Vz-Printhead-Printed-MGN12H](./EduardoMDSousa/Vz-Printhead-Printed-MGN12H) | Vz-Printhead-Printed_Standoffs-MGN12 | ✔️ | ✔️ | :green_heart: |
 | MadduxVape | [Vz330_Duet_Config](./MadduxVape) | Vz330 AWD Config for Duett board| ✔️ |  ✖️ | :green_heart: |
 ---
 
