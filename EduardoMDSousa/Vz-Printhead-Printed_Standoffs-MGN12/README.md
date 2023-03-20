@@ -26,6 +26,9 @@ ps. My thanks to Simon Vez , for his great help with advice and revision.
 
 Credits, from the original version and Readme, go to Simon Vez
 
-<img width="600" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Printed-Standoffs-MGN12%20Mood.png?raw=true">
-<img width="600" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Printed-Standoffs-MGN12%20Mood_2.png">
+<img width="400" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Printed-Standoffs-MGN12%20Mood.png?raw=true"><img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Printed-Standoffs-MGN12%20Mood_2.png">
 
+Front printed StandOffs
+
+<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Standoffs.png"><img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Front.png">
+<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/back_plate.png"><img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/bottom_plate.png">
