@@ -1,10 +1,18 @@
-# Vz-Printhead-Printed-MGN12H-main
-Vz-Printhead-Printed-MGN12H Mood
+# Vz-Printhead-Printed Printed-Standoffs-MGN12 Mood
+Vz-Printhead-Printed Printed-Standoffs-MGN12 Mood
 
-BETA ! UNTESTED ! We need help from the community to test and report feedback. Use at your own risk
-The Vz-Printhead Printed MGN12H Version
+ We need help from the community to test and report feedback. Use at your own risk
+The z-Printhead-Printed Printed-Standoffs-MGN12 Version
 
-The Vz-Printhead is a light weight and stiff head made for the VzBoTs, with MGN12H on X Axis. It was designed to be compatible with almost all hotends, and extruders out there. With the height adjustable fan duct, you can easily change your config without having to re-print a new fan duct.
+The Vz-Printhead is a light weight and stiff head made for the VzBoTs, with MGN12H an C on X Axis. It was designed to be compatible with almost all hotends, and extruders out there. With the height adjustable fan duct, you can easily change your config without having to re-print a new fan duct.
+
+In this Mood, the top plate MGN12 H or C is the same as the official version in the main repository, all the duct etc are the same, for that reason those parts are not available here.
+
+here are just the essential parts for the mood.
+
+Note this mood uses 4 M3x45mm screws and 4 M3 lock nuts
+
+It is available Good with description of the parts to facilitate the assembly.
 
 Note, it may be necessary to print extra parts depending on the hotend to use, the extra parts in the STL folders are for Goliath and Rapido, also the new CPAP duct to print as well.
 
@@ -18,6 +26,6 @@ ps. My thanks to Simon Vez , for his great help with advice and revision.
 
 Credits, from the original version and Readme, go to Simon Vez
 
-<img width="600" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-04-36CustomizedView24815512553.png">
-<img width="600" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-05-56PM-000_CustomizedView32516733739.png">
-<img width="600" alt="image" src="https://github.com/EduardoMDSousa/Vz-Printhead-MGN12H-main/blob/main/Galery/Vzbot_printe_head_new_2023-Feb-05_09-37-22PM.png">
+<img width="600" alt="image" src="https://github.com/EduardoMDSousa/VzBoT-UserMods/blob/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Printed-Standoffs-MGN12%20Mood.png?raw=true">
+<img width="600" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Printed-Standoffs-MGN12%20Mood_2.png">
+
