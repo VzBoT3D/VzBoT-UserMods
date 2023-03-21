@@ -32,3 +32,8 @@ Front printed StandOffs
 
 <img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Standoffs.png"><img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Front.png">
 <img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/back_plate.png"><img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/bottom_plate.png">
+
+Print orientation redy to slice stl with all parts
+
+<img width="400" alt="image" src="https://raw.githubusercontent.com/EduardoMDSousa/VzBoT-UserMods/master/EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12/Galery/Print_orientation.png">
+
