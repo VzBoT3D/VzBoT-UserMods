@@ -67,7 +67,7 @@ If you want to donate something regarding this project, use this [link](https://
 
 # Upgrading from an earlier version
 
-If you are upgrading from an earlier version, check the [klipper macros](./Klipper_macros) folder, it contains update instructions.
+If you are upgrading from an earlier version, check the [klipper macros](https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros) folder, it contains update instructions.
 
 # Probe options
 
@@ -97,7 +97,7 @@ KlickyProbe STL's are now located on each probe type directory.
 
 Printer specific STL are in each printer directory.
 
-The klipper macros are [here](./Klipper_macros](https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros), the RRF [here](./RRF_macros).
+The klipper macros are ![here](https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros), the RRF ![here](https://github.com/EduardoMDSousa/Klicky-Probe/tree/main/RRF_macros).
 
 
 ## Probe accuracy
