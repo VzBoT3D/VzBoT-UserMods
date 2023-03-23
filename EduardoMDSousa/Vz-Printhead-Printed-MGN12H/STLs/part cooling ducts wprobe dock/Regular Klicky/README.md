@@ -110,7 +110,7 @@ The probe accuracy output is better than a range of 0.025mm (difference between 
 
 There are no need for supports, recommended settings are 4 perimeters/top/bottom, at least 23% infill, the STL's are already oriented, you only need to send them to the slicer.
 
-![]([https://github.com/jlas1/Klicky-Probe/blob/main/Photos/Klicky_Probe_recommended_printing_orientation.png)
+![here](https://github.com/EduardoMDSousa/Klicky-Probe/blob/main/Photos/Klicky_Probe_recommended_printing_orientation.png)
 
 Each printer family/version has it's own mounting options, Bill of Materials, assembly instructions and dock/attach setup.
 
