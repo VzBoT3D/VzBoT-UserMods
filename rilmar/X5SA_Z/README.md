@@ -3,6 +3,8 @@ This is a mod to reuse some of the original X5SA Z components (If adapting a VZB
 
 ![Printed Part](./X5SA_Z_Close.png | width=200)
 
+<img src="./X5SA_Z_Close.png" alt="Printed Part" width="48">
+
 THis reuses the original aluminum Z platforms while also utilizing the stock VzBot (printed) Z axis components. 
 
 ![Full Bed System](./X5SA_Z_Full.png | width=200)
