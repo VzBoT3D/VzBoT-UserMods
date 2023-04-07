@@ -1,7 +1,7 @@
 # X5SA Z
 This is a mod to reuse some of the original X5SA Z components (If adapting a VZBot330 from a Tronxy X5SA).
 
-[Printed Part](./X5SA_Z_Close.png)
+![Printed Part](./X5SA_Z_Close.png)
 
 THis reuses the original aluminum Z platforms while also utilizing the stock VzBot (printed) Z axis components. 
 
