@@ -67,7 +67,7 @@ If you want to donate something regarding this project, use this [link](https://
 
 # Upgrading from an earlier version
 
-If you are upgrading from an earlier version, check the [klipper macros](./Klipper_macros) folder, it contains update instructions.
+If you are upgrading from an earlier version, check the [klipper macros](https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros) folder, it contains update instructions.
 
 # Probe options
 
@@ -81,45 +81,6 @@ First klicky probe, based on the [Quickdraw probe](https://github.com/Annex-Engi
 
 It uses magnets to secure the probe to the mount and also to make the electrical connection.
 The magnets can be glued to prevent them from coming loose.
-It supports a [microswitch probe](./Probes/KlickyProbe/) and [Unklicky](./Probes/Unklicky/) ([invented by DustinSpeed](https://github.com/majarspeed/Unklicky)) (self built probe, that so far surpasses the microswitches in common use) based probing.
-
-### [Assembly instruction](./Probes/KlickyProbe/)
-
-## KlickyNG
-
-New enclosed magnets probe, it does not require glue to help prevent the magnets from coming loose, magnets are also self aligning.
-This approach only uses common and easy to source parts.
-
-<img src="https://github.com/jlas1/Klicky-Probe/blob/main/Probes/KlickyNG/Photos/klickyNG.png" alt="klickyprobe" style="zoom:50%;" />
-
-Also supports [microswitch probe](./Probes/KlickyNG/) and [Unklicky](./Probes/UnklickyNG/) ([invented by DustinSpeed](https://github.com/majarspeed/Unklicky)) (self built probe, that so far surpasses the microswitches in common use) based probing.
-
-### [Assembly instruction](./Probes/KlickyNG/)
-
-# Printers With detailed instructions and specific parts (by support order)
-
-The specific parts with install, configuration, troubleshoot and recommended settings can be found on each printer page, linked below.
-
-[Voron v2.4](./Printers/Voron/v1.8_v2.4_Legacy_Trident)
-
-[Voron v1.8](./Printers/Voron/v1.8_v2.4_Legacy_Trident)
-
-[Voron Legacy](./Printers/Voron/v1.8_v2.4_Legacy_Trident)
-
-[Voron Trident](./Printers/Voron/v1.8_v2.4_Legacy_Trident)
-
-[Voron v0](./Printers/Voron/v0)
-
-[VCore 3.0/3.1 ](./Printers/Ratrig/VCore3.0_3.1)
-
-[MercuryOne](./Printers/ZeroG/Mercury_One)
-
-[Voron Switchwire](./Printers/Voron/Switchwire)
-
-
-There are also [docks and mounts submitted by users](./Usermods) to support other printers and toolheads, you should check it out.
-
-![Klicky Probe image](https://github.com/jlas1/Klicky-Probe/blob/main/Photos/Klicky_Probe.png)klicky early version.
 
 # Klicky components
 
@@ -136,7 +97,7 @@ KlickyProbe STL's are now located on each probe type directory.
 
 Printer specific STL are in each printer directory.
 
-The klipper macros are [here](./Klipper_macros](https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros), the RRF [here](./RRF_macros).
+The klipper macros are ![here](https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros), the RRF ![here](https://github.com/EduardoMDSousa/Klicky-Probe/tree/main/RRF_macros).
 
 
 ## Probe accuracy
@@ -149,7 +110,7 @@ The probe accuracy output is better than a range of 0.025mm (difference between 
 
 There are no need for supports, recommended settings are 4 perimeters/top/bottom, at least 23% infill, the STL's are already oriented, you only need to send them to the slicer.
 
-![]([https://github.com/jlas1/Klicky-Probe/blob/main/Photos/Klicky_Probe_recommended_printing_orientation.png)
+![here](https://github.com/EduardoMDSousa/Klicky-Probe/blob/main/Photos/Klicky_Probe_recommended_printing_orientation.png)
 
 Each printer family/version has it's own mounting options, Bill of Materials, assembly instructions and dock/attach setup.
 
@@ -174,20 +135,5 @@ Probe BOM:
 
 # Sourcing guide
 
-To get the best experience, please consider purchasing from the trusted list of suppliers bellow.
-
-[trusted suppliers list](./Sourcing.md)
-
-# Assembled Klicky Probe on a Voron v2.4
-
-# ![Assembled Klicky Probe](./Photos/Voron_V2.4_300mm_back.jpg)
-
-# Dock and undock video
-
-https://user-images.githubusercontent.com/16675722/122302371-eb9c4e00-cef9-11eb-91d3-3aded131bae0.mp4
-
-It is working very well, if you decide to use it, give me feedback, either here, or on Voron discord, my discord user is JosAr#0517.
-
-By standing on the shoulders of giants, lets see if we can see further.
 
 
