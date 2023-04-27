@@ -49,13 +49,17 @@ like so:
 | catalinutzz| [Hemera mount](./catalinutzz/hemera-mount) | Hemera mount for the VZ Printhead | ✔️ | ✔️ | :green_heart: |
 | ckvsoft    | [CPAP_back_panel_tube_mount_VZ330](./ckvsoft/CPAP_back_panel_tube_mount_VZ330)| CPAP back panel tube mount VZ330. | ✔️ | ✖️ | :green_heart: |
 | ckvsoft    | [WaveShare](./ckvsoft/waveshare_5inch_DSI_LCD)| WaveShare 5inch DSI LCD. | ✔️ | ✔️ | :green_heart: |
+| EduardoMDSousa  | [Vz-Printhead Printed MGN12H](./EduardoMDSousa/Vz-Printhead-Printed-MGN12H) | VzPrinthead Printed MGN12H | ✔️ | ✔️ | :green_heart: |
+| | [Vz-Printhead Printed Standoffs MGN12](./EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12) | Vz-Printhead Printed Standoffs MGN12 | ✔️ | ✔️ | :green_heart: |
 | jpbnto     | [Y endstop](./jpbnto/yendstop) | Y-endstop using the Tronxy XS5A switch | ✔️ | ✖️ | :green_heart: |
+| | [VzHextrudort heavy back plate](./jpbnto/vzhextrudort_heavy_back_plate) | Y-endstop using the Tronxy XS5A switch | ✔️ | ✖️ | :green_heart: |
 | jurisv      | [SLA CPAP Trihorn](./jurisv/sla_cpap_trihorn)                             | CPAP Trihorn Fan ducts for SLA printers as single piece          | ✔️ | ✖️ | :green_heart: |
 | karnadi    | [NF Crazy front face](./karnadi/NF_Crazy_2510_BLTouch) | NF Crazy front face 2510 fan with BLTouch mount | ✔️ | ✔️ | :green_heart: |
 |            | [VzHextrudort pneumatic coupler](./karnadi/VzHextrudort_pneumatic_coupler) | VzHextrudort pneumatic PTFE coupler | ✔️ | ✔️ | :green_heart: |
 | knarfie    | [12mm Linear Rod](./knarfie/12mm_rods) | Mod for 12mm linear rods | ✔️ | ✖️ | :green_heart: |
 |            | [Idler Shoulder](./knarfie/shoulder_idler) | Idler mounts with spots for shoulder bolts  | ✔️ | ✖️ | :green_heart: |
 |            | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead | ✔️ | ✔️ | :green_heart: |
+| MadduxVape | [Vz330 Duet Config](./MadduxVape) | Vz330 AWD Config for Duett board| ✔️ |  ✖️ | :green_heart: |
 | mdwasp     | [Swappable Exhaust Tube](./mdwasp/swappable_exhaust_tube) | Hot-swappable exhaust tube | ? | ✔️ | :green_heart: |
 | panik988   | [Sherpa + NF Crazy front face (bracket)](./panik988/sherpa_nf_crazy_bracket) | NF Crazy Face Mount with bracket for Sherpa | ✔️ | ✔️ | :green_heart: |
 | pbsuper    | [VZTrident](./pbsuper/VZTrident)| Tripple Z for VZbot complete printer. | ✔️ | ✔️ | :blue_heart: |
@@ -74,9 +78,7 @@ like so:
 | Skysi      | [Beefy X-Endstop](./Skysi/Beefy%20X-Endstop) | Beefed up Enstop for X | ✔️ | ✔️ | :green_heart: |
 | SSerpente  | [Klicky probe](./SSerpente/Klicky%20probe%20Vzbot) | Klicky probe mount | ✔️ | ✔️ | :green_heart: |
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ |  ✖️ | :green_heart: |
-| EduardoMDSousa  | [Vz-Printhead-Printed-MGN12H](./EduardoMDSousa/Vz-Printhead-Printed-MGN12H) | Vz-Printhead-Printed-MGN12H | ✔️ | ✔️ | :green_heart: |
-| EduardoMDSousa  | [Vz-Printhead-Printed_Standoffs-MGN12](./EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12) | Vz-Printhead-Printed_Standoffs-MGN12 | ✔️ | ✔️ | :green_heart: |
-| MadduxVape | [Vz330_Duet_Config](./MadduxVape) | Vz330 AWD Config for Duett board| ✔️ |  ✖️ | :green_heart: |
+
 ---
 
 <sub>Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)</sub>
