@@ -1,7 +1,7 @@
 ## Corner bracket mounting for a HVBCam [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
-The camera can be mounted in the top left corner. It is possible to lead the cable out backwards in one of the profiles. If you use the HBVCam-3M2111, you have a view angle of 110° and thus a complete overview of the print bed.
+The camera can be mounted in the top left corner. It is possible to lead the cable out backwards in one of the profiles. If you use the HBVCam-3M2111, you have a view angle of 110° and thus a complete overview of the print bed. With this arm, it fits nicely at the Vz235, It is quite possible that it also fits on the Vz330, but untested.
 
 ![render of the camera](./images/render.jpg)
 ---
