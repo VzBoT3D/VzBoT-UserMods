@@ -25,8 +25,8 @@ The camera has not the best quality, see for yourself, but it is sufficient for 
 ---
 
 First screw "Bracket_Part1" to the rear half of the case. Use the M2.5x6 screws for this.
-Then the lens has to be unscrewed. But this is possible without any problems. then you put the camera in the front housing shell, then put the lens back on it so that no dust gets on the sensor. Put the rear case shell on and screw both halves tight. Use the M2.5x12 screws. Screw the "Bracket_Part2" to the "Bracket_Part1" using the M2.5x12 screw.
-The case should be finished. Now you can fix the camera into the top left corner of your Vz235.
+Then the lens has to be unscrewed. But this is possible without any problems. Then you put the camera in the front housing shell, after that put the lens back on to protect the sensor from dust and specks. Put the rear case shell on and screw both halves tight. Use the M2.5x12 screws. Screw the "Bracket_Part2" to the "Bracket_Part1" using the M2.5x12 screw.
+The case should be finished. Now you can attach the camera into the top left corner of your Vz235.
 
 ---
 
@@ -34,7 +34,7 @@ The case should be finished. Now you can fix the camera into the top left corner
 
 ---
 
-This contribute was made by [der-pw](https://github.com/der-pw).  
+This contribution was made by [der-pw](https://github.com/der-pw).  
 STEP-File inside, feel free to edit, improve or modify this thing, but respect the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
 
 
