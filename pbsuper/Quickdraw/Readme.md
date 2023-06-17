@@ -34,13 +34,13 @@ To use quickdraw a module needs to be added.
 SSH into your Pi with a application like Putty and type:
 ```
 cd ~/klipper/klippy/extras
-wget https://raw.githubusercontent.com/Annex-Engineering/klipper/master/klippy/extras/dockable_probe.py
+wget https://raw.githubusercontent.com/mental405/klipper/work-annex-probe/klippy/extras/dockable_probe.py
 sudo service klipper restart 
 ```
 For more info go to [Quickdraw](https://github.com/Annex-Engineering/Quickdraw_Probe)
 Credits to Annex-Engineering for designing it.
 
-Example Config for VZTrident 400 on BTT Octopus board:
+Example Config for VZTrident 400 on BTT Octopus board WIth QD1:
 ```
 [dockable_probe]
 pin: PG10 #your probe pin goes here
@@ -66,3 +66,37 @@ check_open_attach:         True #checks to see if the probe is attached before m
 dock_fixed_z:              True # k series printers use a dock fixed in the z axis, this was off a K2
 dock_retries:			   3
 ```
+
+Example Config for the VZ235 with BTT Octopus Board with QD2:
+``` 
+[dockable_probe]
+pin: PG12 # Z-MIN
+x_offset: 1.9 # offset for microswitch x direction off nozzle
+y_offset: 19.2 # offset for microswitch y direction off nozzle
+
+#0.4 Hardend nozzle offset.
+#z_offset = 8.791
+
+samples: 3
+sample_retract_dist: 5
+samples_result: median
+samples_tolerance: 0.03
+samples_tolerance_retries: 3
+speed: 10
+lift_speed: 25
+
+# XYZ
+dock_position:             162,240,20
+approach_position:         162,220,20
+detach_position:           100,240,20
+
+safe_z_position:           118,80 # center of bed
+attach_speed:              20
+detach_speed:              50
+travel_speed:              300
+check_open_attach:         True
+dock_fixed_z:              True
+dock_retries:			   3
+
+allow_delayed_detach: False
+``` 
