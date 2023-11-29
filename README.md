@@ -49,6 +49,7 @@ like so:
 | catalinutzz| [Hemera mount](./catalinutzz/hemera-mount) | Hemera mount for the VZ Printhead | ✔️ | ✔️ | :green_heart: |
 | ckvsoft    | [CPAP_back_panel_tube_mount_VZ330](./ckvsoft/CPAP_back_panel_tube_mount_VZ330)| CPAP back panel tube mount VZ330. | ✔️ | ✖️ | :green_heart: |
 | ckvsoft    | [WaveShare](./ckvsoft/waveshare_5inch_DSI_LCD)| WaveShare 5inch DSI LCD. | ✔️ | ✔️ | :green_heart: |
+| der-pw    | [HBVCam-3M2111_corner-mount](./der-pw/HBVCam-3M2111_corner-mount)| HBVCam-3M2111 corner-mount | ✖️ | ✔️ | :green_heart: |
 | EduardoMDSousa  | [Vz-Printhead Printed MGN12H](./EduardoMDSousa/Vz-Printhead-Printed-MGN12H) | VzPrinthead Printed MGN12H | ✔️ | ✔️ | :green_heart: |
 | | [Vz-Printhead Printed Standoffs MGN12](./EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12) | Vz-Printhead Printed Standoffs MGN12 | ✔️ | ✔️ | :green_heart: |
 |Glizzynator | [M4_Spool_Holder](./Glizzynator/M4_Spool_Holder)| Modifies the spool holder to use M4 screws instead of M3 | ✔️ | ✔️ | :green_heart: |
