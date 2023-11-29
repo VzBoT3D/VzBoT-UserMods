@@ -61,6 +61,7 @@ like so:
 |            | [Idler Shoulder](./knarfie/shoulder_idler) | Idler mounts with spots for shoulder bolts  | ✔️ | ✖️ | :green_heart: |
 |            | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead | ✔️ | ✔️ | :green_heart: |
 | MadduxVape | [Vz330 Duet Config](./MadduxVape) | Vz330 AWD Config for Duett board| ✔️ |  ✖️ | :green_heart: |
+| marbocub   | [Vz330 Y-Gantry-1515](./marbocub/Vz330_Y-Gantry-1515) | Vz330 Y-Gantry for 1515 size gantry | ✔️ |  ✖️ | :green_heart: |
 | mdwasp     | [Swappable Exhaust Tube](./mdwasp/swappable_exhaust_tube) | Hot-swappable exhaust tube | ? | ✔️ | :green_heart: |
 | panik988   | [Sherpa + NF Crazy front face (bracket)](./panik988/sherpa_nf_crazy_bracket) | NF Crazy Face Mount with bracket for Sherpa | ✔️ | ✔️ | :green_heart: |
 | pbsuper    | [VZTrident](./pbsuper/VZTrident)| Tripple Z for VZbot complete printer. | ✔️ | ✔️ | :blue_heart: |
