@@ -51,6 +51,7 @@ like so:
 | ckvsoft    | [WaveShare](./ckvsoft/waveshare_5inch_DSI_LCD)| WaveShare 5inch DSI LCD. | ✔️ | ✔️ | :green_heart: |
 | EduardoMDSousa  | [Vz-Printhead Printed MGN12H](./EduardoMDSousa/Vz-Printhead-Printed-MGN12H) | VzPrinthead Printed MGN12H | ✔️ | ✔️ | :green_heart: |
 | | [Vz-Printhead Printed Standoffs MGN12](./EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12) | Vz-Printhead Printed Standoffs MGN12 | ✔️ | ✔️ | :green_heart: |
+|Glizzynator | [M4_Spool_Holder](./Glizzynator/M4_Spool_Holder)| Modifies the spool holder to use M4 screws instead of M3 | ✔️ | ✔️ | :green_heart: |
 | jpbnto     | [Y endstop](./jpbnto/yendstop) | Y-endstop using the Tronxy XS5A switch | ✔️ | ✖️ | :green_heart: |
 | | [VzHextrudort heavy back plate](./jpbnto/vzhextrudort_heavy_back_plate) | Y-endstop using the Tronxy XS5A switch | ✔️ | ✖️ | :green_heart: |
 | jurisv      | [SLA CPAP Trihorn](./jurisv/sla_cpap_trihorn)                             | CPAP Trihorn Fan ducts for SLA printers as single piece          | ✔️ | ✖️ | :green_heart: |
