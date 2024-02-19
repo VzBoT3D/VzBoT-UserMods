@@ -34,7 +34,7 @@ To use quickdraw a module needs to be added.
 SSH into your Pi with a application like Putty and type:
 ```
 cd ~/klipper/klippy/extras
-wget https://raw.githubusercontent.com/cloakedcode/klipper/blob/work-annex-probe/klippy/extras/dockable_probe.py
+wget https://raw.githubusercontent.com/cloakedcode/klipper/work-annex-probe/klippy/extras/dockable_probe.py
 sudo service klipper restart 
 ```
 For more info go to [Quickdraw](https://github.com/Annex-Engineering/Quickdraw_Probe)
