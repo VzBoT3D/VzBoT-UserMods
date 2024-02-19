@@ -1,1 +1,0 @@
-This version was giving issue's with the more recent klipper version not propperly adjusting the bed mesh due to the large distance from the probe to the nozzle.
