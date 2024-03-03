@@ -34,7 +34,7 @@ To use quickdraw a module needs to be added.
 SSH into your Pi with a application like Putty and type:
 ```
 cd ~/klipper/klippy/extras
-wget https://raw.githubusercontent.com/mental405/klipper/work-annex-probe/klippy/extras/dockable_probe.py
+wget https://raw.githubusercontent.com/cloakedcode/klipper/work-annex-probe/klippy/extras/dockable_probe.py
 sudo service klipper restart 
 ```
 For more info go to [Quickdraw](https://github.com/Annex-Engineering/Quickdraw_Probe)
@@ -43,60 +43,69 @@ Credits to Annex-Engineering for designing it.
 Example Config for VZTrident 400 on BTT Octopus board WIth QD1:
 ```
 [dockable_probe]
-pin: PG10 #your probe pin goes here
-x_offset: 26 # offset for microswitch x direction off nozzle
-y_offset: 56 # offset for microswitch y direction off nozzle
-#z_offset: 6.42 # offset for microswitch in z height
-samples: 3
-sample_retract_dist: 3 # this is so the machine has time for the switch to reset properly, especially with a higher retract speed
-samples_result: median
-samples_tolerance: 0.04
-samples_tolerance_retries: 3
-speed: 15 # do not go higher than 10mm/s, you will destroy the switch
-lift_speed: 20
+pin: PG10
+x_offset:                          26 # offset for microswitch x direction off nozzle
+y_offset:                          56 # offset for microswitch y direction off nozzle
+z_offset:                          6.42 # offset for microswitch in z height
 
-dock_position:             390,380, 25 #you need to set these on your own
-safe_z_position:           200,200 #used the center of the bed for this
+samples:                           3
+sample_retract_dist:               3 # this is so the machine has time for the switch to reset properly, especially with a higher retract speed
+samples_result:                    median
+samples_tolerance:                 0.04
+samples_tolerance_retries:         3
+speed:                             15 # do not go higher than 10mm/s, you will destroy the switch
+lift_speed:                        20
+z_hop:                             15.0
+
+attach_speed:                      8
+detach_speed:                      10
+travel_speed:                      300
+
 approach_position:		   380,380, 25 #you need to set these on your own
 detach_position:		   360,330 #you need to set these on your own
-attach_speed:              8
-detach_speed:              10
-travel_speed:              300
-check_open_attach:         True #checks to see if the probe is attached before moving the toolhead, if not retries to pick up the probe
-dock_fixed_z:              True # k series printers use a dock fixed in the z axis, this was off a K2
+dock_position:            	   390,380, 25 #you need to set these on your own
 dock_retries:			   3
+
+check_open_attach:                 True #checks to see if the probe is attached before moving the toolhead, if not retries to pick up the probe
+auto_attach_detach: True
 ```
 
 Example Config for the VZ235 with BTT Octopus Board with QD2:
 ``` 
 [dockable_probe]
-pin: PG12 # Z-MIN
-x_offset: 1.9 # offset for microswitch x direction off nozzle
-y_offset: 19.2 # offset for microswitch y direction off nozzle
+pin: PG10
+x_offset:                          26 # offset for microswitch x direction off nozzle
+y_offset:                          56 # offset for microswitch y direction off nozzle
+z_offset:                          6.42 # offset for microswitch in z height
 
-#0.4 Hardend nozzle offset.
-#z_offset = 8.791
+samples:                           3
+sample_retract_dist:               3 # this is so the machine has time for the switch to reset properly, especially with a higher retract speed
+samples_result:                    median
+samples_tolerance:                 0.04
+samples_tolerance_retries:         3
+speed:                             15 # do not go higher than 10mm/s, you will destroy the switch
+lift_speed:                        20
+z_hop:                             15.0
 
-samples: 3
-sample_retract_dist: 5
-samples_result: median
-samples_tolerance: 0.03
-samples_tolerance_retries: 3
-speed: 10
-lift_speed: 25
+attach_speed:                      8
+detach_speed:                      10
+travel_speed:                      300
 
-# XYZ
-dock_position:             162,240,20
-approach_position:         162,220,20
-detach_position:           100,240,20
-
-safe_z_position:           118,80 # center of bed
-attach_speed:              20
-detach_speed:              50
-travel_speed:              300
-check_open_attach:         True
-dock_fixed_z:              True
+approach_position:		   162,220,20 #you need to set these on your own
+detach_position:		   100,240,20 #you need to set these on your own
+dock_position:            	   162,240,20 #you need to set these on your own
 dock_retries:			   3
 
-allow_delayed_detach: False
-``` 
+check_open_attach:                 True #checks to see if the probe is attached before moving the toolhead, if not retries to pick up the probe
+auto_attach_detach: True
+```
+
+You also need to use a Safe_Z_Home to let it know where to move to to home Z.
+
+```
+[safe_z_home]
+home_xy_position: 200,200 # set this to the center of your bed.
+speed: 200
+z_hop:20
+z_hop_speed: 30
+```
