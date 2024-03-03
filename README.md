@@ -51,6 +51,8 @@ like so:
 | ckvsoft    | [WaveShare](./ckvsoft/waveshare_5inch_DSI_LCD)| WaveShare 5inch DSI LCD. | ✔️ | ✔️ | :green_heart: |
 | der-pw    | [HBVCam-3M2111_corner-mount](./der-pw/HBVCam-3M2111_corner-mount)| HBVCam-3M2111 corner-mount | ✖️ | ✔️ | :green_heart: |
 | EduardoMDSousa  | [Vz-Printhead Printed MGN12H](./EduardoMDSousa/Vz-Printhead-Printed-MGN12H) | VzPrinthead Printed MGN12H | ✔️ | ✔️ | :green_heart: |
+|                 | [Vz-Printhead-Printed_Standoffs-MGN12](./EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12) | Vz-Printhead-Printed_Standoffs-MGN12 | ✔️ | ✔️ | :green_heart: |
+|                 | [Vz-Printhead-Printed-MGN12H-Orbiter-1.5-Mood](./EduardoMDSousa/Vz-Printhead-Printed-MGN12H-Orbiter-1.5-Mood) | Vz-Printhead-Printed-MGN12H-Orbiter-1.5-Mood | ✔️ | ✔️ | :green_heart: |
 | | [Vz-Printhead Printed Standoffs MGN12](./EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12) | Vz-Printhead Printed Standoffs MGN12 | ✔️ | ✔️ | :green_heart: |
 |Glizzynator | [M4_Spool_Holder](./Glizzynator/M4_Spool_Holder)| Modifies the spool holder to use M4 screws instead of M3 | ✔️ | ✔️ | :green_heart: |
 | jpbnto     | [Y endstop](./jpbnto/yendstop) | Y-endstop using the Tronxy XS5A switch | ✔️ | ✖️ | :green_heart: |
@@ -81,7 +83,7 @@ like so:
 | Skysi      | [Beefy X-Endstop](./Skysi/Beefy%20X-Endstop) | Beefed up Enstop for X | ✔️ | ✔️ | :green_heart: |
 | SSerpente  | [Klicky probe](./SSerpente/Klicky%20probe%20Vzbot) | Klicky probe mount | ✔️ | ✔️ | :green_heart: |
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ |  ✖️ | :green_heart: |
-
+| MadduxVape | [Vz330_Duet_Config](./MadduxVape) | Vz330 AWD Config for Duett board| ✔️ |  ✖️ | :green_heart: |
 ---
 
 <sub>Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)</sub>
