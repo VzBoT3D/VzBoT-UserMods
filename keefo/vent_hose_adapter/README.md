@@ -1,9 +1,5 @@
 this adapter can install on the outside of the vzbot exhaust filter, to connect a 3inch vent hose.
 
-Showcase:
-
-![image](images/IMG_5074.jpg)
-
 BOM:
 
 1. M3x30mm screws x 4. (vzbot offical doc use 25mm M3 here)
@@ -19,3 +15,6 @@ If you use this hose, you can remove the hepa filter to increase the air flow. Y
 
 I kept the activated carbon vent filter in to prevent bugs coming.
 
+Showcase:
+
+![image](images/IMG_5074.jpg)
