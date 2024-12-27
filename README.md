@@ -84,6 +84,7 @@ like so:
 | SSerpente  | [Klicky probe](./SSerpente/Klicky%20probe%20Vzbot) | Klicky probe mount | ✔️ | ✔️ | :green_heart: |
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ |  ✖️ | :green_heart: |
 | MadduxVape | [Vz330_Duet_Config](./MadduxVape) | Vz330 AWD Config for Duett board| ✔️ |  ✖️ | :green_heart: |
+| zxzimeng  | [12mm rod aligner](./zxzimeng/12mm_aligner/) | 12mm Z Rod Aligner  | ✖️ |  ✔️ | :green_heart: |
 ---
 
 <sub>Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)</sub>
