@@ -60,6 +60,7 @@ like so:
 | jurisv      | [SLA CPAP Trihorn](./jurisv/sla_cpap_trihorn)                             | CPAP Trihorn Fan ducts for SLA printers as single piece          | ✔️ | ✖️ | :green_heart: |
 | karnadi    | [NF Crazy front face](./karnadi/NF_Crazy_2510_BLTouch) | NF Crazy front face 2510 fan with BLTouch mount | ✔️ | ✔️ | :green_heart: |
 |            | [VzHextrudort pneumatic coupler](./karnadi/VzHextrudort_pneumatic_coupler) | VzHextrudort pneumatic PTFE coupler | ✔️ | ✔️ | :green_heart: |
+| keefo      | [vent hose adapter](./keefo/vent_hose_adapter) | vent hose adapter | ✔️ | ✖️ | :green_heart: |
 | knarfie    | [12mm Linear Rod](./knarfie/12mm_rods) | Mod for 12mm linear rods | ✔️ | ✖️ | :green_heart: |
 |            | [Idler Shoulder](./knarfie/shoulder_idler) | Idler mounts with spots for shoulder bolts  | ✔️ | ✖️ | :green_heart: |
 |            | [Trihorn](./knarfie/trihorn_duct) | Trihorn duct for the VZ Printhead | ✔️ | ✔️ | :green_heart: |
