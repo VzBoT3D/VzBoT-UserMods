@@ -86,6 +86,6 @@ like so:
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ |  ✖️ | :green_heart: |
 | MadduxVape | [Vz330_Duet_Config](./MadduxVape) | Vz330 AWD Config for Duett board| ✔️ |  ✖️ | :green_heart: |
 | zxzimeng  | [12mm rod aligner](./zxzimeng/12mm_aligner/) | 12mm Z Rod Aligner  | ✖️ |  ✔️ | :green_heart: |
-| edsped    | [Bowden Clip Adapter](./edsped/Bowden Adapter/) | Bowden Collet Adapter  | ✔️ |  ✔️ | :green_heart: |
+| edsped    | [Bowden Clip Adapter](./edsped/) | Bowden Collet Adapter  | ✔️ |  ✔️ | :green_heart: |
 
 <sub>Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)</sub>
