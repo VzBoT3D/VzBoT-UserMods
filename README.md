@@ -50,6 +50,7 @@ like so:
 | ckvsoft    | [CPAP_back_panel_tube_mount_VZ330](./ckvsoft/CPAP_back_panel_tube_mount_VZ330)| CPAP back panel tube mount VZ330. | ✔️ | ✖️ | :green_heart: |
 | ckvsoft    | [WaveShare](./ckvsoft/waveshare_5inch_DSI_LCD)| WaveShare 5inch DSI LCD. | ✔️ | ✔️ | :green_heart: |
 | der-pw    | [HBVCam-3M2111_corner-mount](./der-pw/HBVCam-3M2111_corner-mount)| HBVCam-3M2111 corner-mount | ✖️ | ✔️ | :green_heart: |
+| edsped    | [Bowden Collet Adapter](./edsped/) | Bowden Collet Adapter  | ✔️ |  ✔️ | :green_heart: |
 | EduardoMDSousa  | [Vz-Printhead Printed MGN12H](./EduardoMDSousa/Vz-Printhead-Printed-MGN12H) | VzPrinthead Printed MGN12H | ✔️ | ✔️ | :green_heart: |
 |                 | [Vz-Printhead-Printed_Standoffs-MGN12](./EduardoMDSousa/Vz-Printhead-Printed_Standoffs-MGN12) | Vz-Printhead-Printed_Standoffs-MGN12 | ✔️ | ✔️ | :green_heart: |
 |                 | [Vz-Printhead-Printed-MGN12H-Orbiter-1.5-Mood](./EduardoMDSousa/Vz-Printhead-Printed-MGN12H-Orbiter-1.5-Mood) | Vz-Printhead-Printed-MGN12H-Orbiter-1.5-Mood | ✔️ | ✔️ | :green_heart: |
@@ -86,6 +87,5 @@ like so:
 | treintjes  | [Skirt](./treintjes/VzBot_Skirt) | Skirt for the VZ-Bot to house electronics under the frame | ✔️ |  ✖️ | :green_heart: |
 | MadduxVape | [Vz330_Duet_Config](./MadduxVape) | Vz330 AWD Config for Duett board| ✔️ |  ✖️ | :green_heart: |
 | zxzimeng  | [12mm rod aligner](./zxzimeng/12mm_aligner/) | 12mm Z Rod Aligner  | ✖️ |  ✔️ | :green_heart: |
----
 
 <sub>Credits to [VoronDesign/VoronUsers](https://github.com/VoronDesign/VoronUsers)</sub>
