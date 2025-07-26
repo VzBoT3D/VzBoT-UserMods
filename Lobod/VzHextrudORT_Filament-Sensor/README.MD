@@ -1,4 +1,4 @@
-# Betetr filament sensor for VzHextrudORT
+# Better filament sensor for VzHextrudORT
 
 ![Sensor](Imgs/Sensor.png)
 
