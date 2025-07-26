@@ -1,12 +1,12 @@
 # Betetr filament sensor for VzHextrudORT
 
-![Sensor](imgs/Sensor.png)
+![Sensor](Imgs/Sensor.png)
 
 Based on ERCF Binky and has the same BOM.
 Uses similar principle as hall effect filament sensor, but utilizes optical path blocking for triggering.
 
-![Cross-section](imgs/Cross-section.png)
-![Cross-section](imgs/Cross-section-Filament-sensor.png)
+![Cross-section](Imgs/Cross-section.png)
+![Cross-section](Imgs/Cross-section-Filament-sensor.png)
 
 # BOM
 The same as in the original Extruder **except 6x3mm magnet**
@@ -40,6 +40,6 @@ Interactive BOM can be found in ./PCB/BOM/ibom.html
 6. Enjoy!
 
 # PCB Images
-![PCB-Front](imgs/PCB%20front.png)
-![PCB-Back](imgs/PCB%20back.png)
+![PCB-Front](Imgs/PCB%20front.png)
+![PCB-Back](Imgs/PCB%20back.png)
 
